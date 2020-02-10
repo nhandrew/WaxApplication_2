@@ -1,16 +1,5 @@
-# wax_app
+# Provider Package in Depth - StreamProvider
 
-A new Flutter project.
+The second in a video series on the Provider package, this repo represents the code at the conclusion of the video.  A firestore project is necessary to run the code and a google-services.json file needs to be imported per the firebase instruction to run the project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
